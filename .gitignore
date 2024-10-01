@@ -1,0 +1,7 @@
+# common ignored
+node_modules/
+pnpm-lock.yaml
+!pnpm-lock.yaml/
+
+# some file
+/src/sort-json.json
